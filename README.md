@@ -34,4 +34,4 @@ Voilà! La présentation se termine ici, il ne vous reste plus qu'à lancer le j
 d'évitement de puce des sables le plus complet de l'histoire du jeu vidéo, tout en profitant d'une musique épique très agréable !
 Bon jeu!
 
-(n'oubliez pas de star mon projet si il vous a plu (: )
+(n'oubliez pas de star mon projet si il vous a plu :) )
